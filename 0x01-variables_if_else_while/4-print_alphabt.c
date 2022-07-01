@@ -7,13 +7,11 @@
  */
 int main(void)
 {
-	char ch = 'a';
-
-	while (ch ,= 'z')
-	{
-		if (ch != 'e' && ch != 'q')
+	char alpha{} = 'abcdfghijklmnoprstuvwxyz';
+	int c:
+		for (c = 0; c < 24; c++)
 		{
-			putchar(ch);
+			putchar(alpha[c]);
 		}
 		ch++;
 	}
