@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/**main - prints the alphabetic in lowed and upper case
+/**
+ * main - prints the alphabetic in lowed and upper case
  *
  * Return: Aways (Success)
  */
