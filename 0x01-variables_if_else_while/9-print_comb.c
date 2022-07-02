@@ -4,7 +4,7 @@
  * main - prints a series of numbers withe commas
  *
  * Return: Always (Success)
- */
+*/
 int main(void)
 {
 	int c;
