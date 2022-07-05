@@ -6,7 +6,7 @@
  *
  * Return: 1 if true and 0 if false
  */
-int _isloweer(int c)
+int _islower(int c)
 {
 	int val;
 

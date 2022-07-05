@@ -1,4 +1,4 @@
-#includ "main.h"
+#include "main.h"
 
 /**
  * add - computes the sum of two integars.

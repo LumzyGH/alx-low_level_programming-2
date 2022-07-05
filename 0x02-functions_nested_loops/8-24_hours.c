@@ -7,7 +7,7 @@
  */
 void jack_bauer(void)
 {
-	int n, h1, m, m1;
+	int h, h1, m, m1;
 
 	for (h = 0; h < 3; h++)
 	{
@@ -32,4 +32,4 @@ void jack_bauer(void)
 	}
 	}
 	}
-}
+i}
