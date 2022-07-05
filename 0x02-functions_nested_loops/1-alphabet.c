@@ -1,19 +1,18 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * print_alphabet - A function that out puts the alphabets
  *
- * Return: Always 0 (Success)
+ * Return: Always void(No return value)
  */
-int main(void)
+void print_alphabet(void)
 {
+	char alpha[] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
-	char str[] = "_putchar";
 
-	for (i = 0; i < 8; i++)
+	for (i = 0; i < 26; i++)
 	{
-		_putchar(str[i]);
+		_putchar(apha[i]);
 	}
 	_putchar('\n');
-	return(0);
 }
