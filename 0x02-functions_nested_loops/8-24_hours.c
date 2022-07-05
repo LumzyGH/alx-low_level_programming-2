@@ -13,11 +13,11 @@ void jack_bauer(void)
 	{
 	for (h1 = 0; h1 < 10; h1++)
 	{
-	for (m = 0; m < 6: m++)
+	for (m = 0; m < 6; m++)
 	{
 	for (m1 = 0; m1 < 10; m1++)
 	{
-		int r = j * 10 +h1;
+		int r = h * 10 +h1;
 
 		if (r > 23)
 			break;
@@ -32,4 +32,4 @@ void jack_bauer(void)
 	}
 	}
 	}
-i}
+}
