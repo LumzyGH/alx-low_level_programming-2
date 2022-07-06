@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * add - computes the sum of two integars.
  * @n1: the first integar value.
