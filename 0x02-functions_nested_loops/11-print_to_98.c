@@ -6,7 +6,7 @@
  *
  * Return: void(no value)
  */
-void print_to-98(int n)
+void print_to_98(int n)
 {
 	int i, j;
 

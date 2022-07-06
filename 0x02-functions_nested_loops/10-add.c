@@ -7,9 +7,7 @@
  *
  * Retun: An integar value of the sum of a and b.
  */
-int add(int a, int b)
+int add(int n1, int n2)
 {
-	int sum = a + b;
-
-	return (0);
+	return (n1 + n2);
 }
