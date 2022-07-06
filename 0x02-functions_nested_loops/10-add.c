@@ -1,11 +1,11 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * add - computes the sum of two integars.
- * @n1: the first integar value.
- * @n2: the sceond integar value.
+ * add - Adds two values
+ * @n1: The first number to be computed
+ * @n2: The second number to be computed
  *
- * Retun: integar value 
+ * Retun: Integar value
  */
 int add(int n1, int n2)
 {
