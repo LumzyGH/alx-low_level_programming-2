@@ -2,10 +2,10 @@
 
 /**
  * add - computes the sum of two integars.
- * @a: th first integar value.
- * @b: the sceond integar value.
+ * @n1: the first integar value.
+ * @n2: the sceond integar value.
  *
- * Retun: An integar value of the sum of a and b.
+ * Retun: integar value 
  */
 int add(int n1, int n2)
 {
