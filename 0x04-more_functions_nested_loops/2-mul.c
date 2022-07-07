@@ -1,4 +1,4 @@
-include "main.h"
+#include <stdio.h>
 /**
  * mul - multiplies two ints.
  * @a: integar.
@@ -8,8 +8,8 @@ include "main.h"
  */
 int mul(int a, int b)
 {
-	int product;
+	int res;
 
-	product = a * b;
-	return (product);
+	res = a * b;
+	return (res);
 }
