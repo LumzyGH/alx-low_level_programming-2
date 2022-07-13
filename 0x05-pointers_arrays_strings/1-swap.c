@@ -8,7 +8,7 @@
 /**
  * swap_int - swap the values of the integars.
  * @a: the first integar to be swapped.
- * @b the second integar to be swapped.
+ * @b: the second integar to be swapped.
  */
 void swap_int(int *a, int *b)
 {

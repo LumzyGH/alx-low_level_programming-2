@@ -4,7 +4,7 @@
  */
 
 #include "main.h"
-/*
+/**
  * rev_string - Revers a string
  * @s: Thestring to be reversed
  */
